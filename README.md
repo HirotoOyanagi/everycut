@@ -1,10 +1,10 @@
 # 今日の癒し猫 🐱
 
-![今日の猫](https://cdn2.thecatapi.com/images/eg1.jpg)
+![今日の猫](https://cdn2.thecatapi.com/images/atr.jpg)
 
 **画像情報:**
-- サイズ: 1600 x 1200
-- 最終更新: 2026-03-15 02:31
+- サイズ: 4056 x 3104
+- 最終更新: 2026-03-16 01:53
 
 ---
 
